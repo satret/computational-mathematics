@@ -1,0 +1,3 @@
+C:/Users/artur/ITMO_labs/vychmat/1lab/cmake-build-debug/CMakeFiles/1lab.dir
+C:/Users/artur/ITMO_labs/vychmat/1lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/artur/ITMO_labs/vychmat/1lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
